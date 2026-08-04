@@ -29,7 +29,6 @@ This repository contains my daily solutions to LeetCode problems in **Java** and
 
 - ✅ Solve LeetCode Daily Challenge
 - ✅ Improve Data Structures & Algorithms
-- ✅ Prepare for Software Engineering Interviews
 - ✅ Maintain Coding Consistency
 
 ---
